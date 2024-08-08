@@ -1,0 +1,12 @@
+import React from 'react';
+import CIOTridentChecklist from './CIOTridentChecklist';
+
+function App() {
+  return (
+    <div className="App">
+      <CIOTridentChecklist />
+    </div>
+  );
+}
+
+export default App;
